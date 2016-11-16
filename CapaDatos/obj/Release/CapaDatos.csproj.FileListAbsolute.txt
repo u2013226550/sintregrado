@@ -1,0 +1,6 @@
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\obj\Release\CapaDatos.pdb

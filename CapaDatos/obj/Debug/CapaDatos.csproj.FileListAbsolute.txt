@@ -1,0 +1,5 @@
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaDatos\obj\Debug\CapaDatos.pdb

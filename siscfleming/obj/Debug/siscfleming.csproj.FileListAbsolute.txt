@@ -1,0 +1,16 @@
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\siscfleming.dll.config
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\siscfleming.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\siscfleming.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaPresentacion.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaNegocio.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaPresentacion.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaNegocio.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\CapaDatos.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Debug\siscfleming.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Debug\siscfleming.Properties.Resources.resources
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Debug\siscfleming.csproj.GenerateResource.Cache
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Debug\siscfleming.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Debug\siscfleming.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\siscfleming.dll.CodeAnalysisLog.xml
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\bin\Debug\siscfleming.dll.lastcodeanalysissucceeded

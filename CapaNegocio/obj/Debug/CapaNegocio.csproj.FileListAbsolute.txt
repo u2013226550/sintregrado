@@ -1,0 +1,7 @@
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\CapaNegocio\obj\Debug\CapaNegocio.pdb

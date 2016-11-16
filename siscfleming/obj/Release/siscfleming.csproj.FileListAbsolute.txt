@@ -1,0 +1,3 @@
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Release\siscfleming.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Release\siscfleming.Properties.Resources.resources
+C:\Users\ti\Documents\Visual Studio 2013\Projects\siscfleming\siscfleming\obj\Release\siscfleming.csproj.GenerateResource.Cache
